@@ -10,6 +10,7 @@
 - Machine Learning & Deep Learning
 - Big Data & Cloud
 - Data visualization
+ 
 
 ## Descansos
 Adrián Fernández Nafría
