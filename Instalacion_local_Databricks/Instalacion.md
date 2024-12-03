@@ -1,6 +1,12 @@
 
 # Proyecto Databricks: Configuración de Entorno e Instalación de Requisitos
 
+**`Importante`.** 
+
+Crear el enviroment en el directorio raiz que quieres trabajar, y ejecutar los scripts de instalación y testeo ubicándolos en el directorio raiz para evitar problemas de rutas.
+
+Están enfocados a Ubuntu o WSL.
+
 ## Pasos para la instalación
 
 ### 1. Crear un entorno virtual
