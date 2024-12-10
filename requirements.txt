@@ -40,6 +40,7 @@ delta-spark==3.2.1
 distlib==0.3.8
 distro==1.7.0
 entrypoints==0.4
+et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 executing==2.1.0
 facets-overview==1.1.1
@@ -65,6 +66,7 @@ httplib2==0.20.2
 httpx==0.28.0
 idna==3.4
 ImageHash==4.3.1
+imbalanced-learn==0.12.4
 importlib-metadata==6.0.0
 iniconfig==2.0.0
 ipyflow-core==0.0.198
@@ -116,6 +118,7 @@ notebook_shim==0.2.4
 numba==0.60.0
 numpy==1.23.5
 oauthlib==3.2.0
+openpyxl==3.1.5
 overrides==7.7.0
 packaging==23.2
 pandas==2.2.3
@@ -205,6 +208,7 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
+word2number-es==1.0.1
 wordcloud==1.9.4
 ydata-profiling==4.12.0
 zipp==3.11.0
