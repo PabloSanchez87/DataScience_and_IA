@@ -192,3 +192,6 @@ delta_table
 # Proyectos personales.
 DataCleaner
 Notebooks/Proyecto_template_personal
+
+# CSV
+*.csv
